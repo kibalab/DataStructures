@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Program",
+      "appliesTo": "Program.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Stack",
+      "appliesTo": "Stack.csproj",
+      "type": "msbuild"
+    },
+    {
+      "taskLabel": "task-Stack",
+      "appliesTo": "Stack.sln",
+      "type": "launch"
+    }
+  ]
+}
