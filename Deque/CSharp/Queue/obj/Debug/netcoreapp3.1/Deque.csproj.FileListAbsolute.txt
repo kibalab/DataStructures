@@ -1,0 +1,13 @@
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\bin\Debug\netcoreapp3.1\Deque.exe
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\bin\Debug\netcoreapp3.1\Deque.deps.json
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\bin\Debug\netcoreapp3.1\Deque.runtimeconfig.json
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\bin\Debug\netcoreapp3.1\Deque.runtimeconfig.dev.json
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\bin\Debug\netcoreapp3.1\Deque.dll
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\bin\Debug\netcoreapp3.1\Deque.pdb
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\obj\Debug\netcoreapp3.1\Deque.GeneratedMSBuildEditorConfig.editorconfig
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\obj\Debug\netcoreapp3.1\Deque.AssemblyInfoInputs.cache
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\obj\Debug\netcoreapp3.1\Deque.AssemblyInfo.cs
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\obj\Debug\netcoreapp3.1\Deque.csproj.CoreCompileInputs.cache
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\obj\Debug\netcoreapp3.1\Deque.dll
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\obj\Debug\netcoreapp3.1\Deque.pdb
+E:\OtherProjects\DataStructure\Deque\CSharp\Queue\obj\Debug\netcoreapp3.1\Deque.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Queue",
+      "appliesTo": "Queue.csproj",
+      "type": "msbuild"
+    },
+    {
+      "taskLabel": "task-Queue",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
