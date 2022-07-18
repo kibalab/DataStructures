@@ -1,0 +1,14 @@
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.AssemblyReference.cache
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+E:\OtherProjects\DataStructure\LinkedList\CSharp\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache
