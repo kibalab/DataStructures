@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5MjuB3uEB0EPiKnCkob98Rbu4+6i4bjWPOdh4Kxpsg2a/yAvwuC7JOdCvtzoXHA4n7FtPyw5Mw+TXOuT8eRUQ==",
+  "dgSpecHash": "r3psFVkR7bAEv1rq4Nre1fO3CFgeaHOavPR/FGKFfYsOKxqvfqo9Ud0I+EIId3OpgVAJENSJcQ7QU1jD0VjRWA==",
   "success": true,
-  "projectFilePath": "E:\\OtherProjects\\DataStructure\\Stack#CSharp\\Stack\\Stack.csproj",
+  "projectFilePath": "E:\\OtherProjects\\DataStructure\\Stack\\CSharp\\Stack.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

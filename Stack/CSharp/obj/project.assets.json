@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OtherProjects\\DataStructure\\Stack#CSharp\\Stack\\Stack.csproj",
+      "projectUniqueName": "E:\\OtherProjects\\DataStructure\\Stack\\CSharp\\Stack.csproj",
       "projectName": "Stack",
-      "projectPath": "E:\\OtherProjects\\DataStructure\\Stack#CSharp\\Stack\\Stack.csproj",
+      "projectPath": "E:\\OtherProjects\\DataStructure\\Stack\\CSharp\\Stack.csproj",
       "packagesPath": "C:\\Users\\kjh03\\.nuget\\packages\\",
-      "outputPath": "E:\\OtherProjects\\DataStructure\\Stack#CSharp\\Stack\\obj\\",
+      "outputPath": "E:\\OtherProjects\\DataStructure\\Stack\\CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
