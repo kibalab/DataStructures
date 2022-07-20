@@ -1,0 +1,5 @@
+E:\OtherProjects\DataStructure\Heap\Heap\Heap\obj\Debug\netcoreapp3.1\Heap.csproj.AssemblyReference.cache
+E:\OtherProjects\DataStructure\Heap\Heap\Heap\obj\Debug\netcoreapp3.1\Heap.GeneratedMSBuildEditorConfig.editorconfig
+E:\OtherProjects\DataStructure\Heap\Heap\Heap\obj\Debug\netcoreapp3.1\Heap.AssemblyInfoInputs.cache
+E:\OtherProjects\DataStructure\Heap\Heap\Heap\obj\Debug\netcoreapp3.1\Heap.AssemblyInfo.cs
+E:\OtherProjects\DataStructure\Heap\Heap\Heap\obj\Debug\netcoreapp3.1\Heap.csproj.CoreCompileInputs.cache
