@@ -32,6 +32,19 @@ namespace Heap
             OrderFromEnd(lastIndex);
         }
 
+        public IComparable Remove(int index)
+        {
+            var removedObject = heap[index];
+
+            var lastIndex = heap.Count - 1;
+            heap[index] = heap[lastIndex];
+            heap.RemoveAt(lastIndex);
+
+            OrderFromFirst(index);
+
+            return removedObject;
+        }
+
         public void OrderFromEnd(int lastIndex)
         {
             var parentIndex = lastIndex / 2;
@@ -44,5 +57,27 @@ namespace Heap
             }
         }
 
+        public void OrderFromFirst(int parentIndex)
+        {
+            var leftChildIndex = parentIndex / 2;
+            var rightChildIndex = leftChildIndex + 1;
+
+            var largestIndex = -1;
+            if(heap[leftChildIndex] > heap[rightChildIndex])
+            {
+                if (heap[leftChildIndex] < heap[parentIndex]) return;
+                largestIndex = leftChildIndex;
+            }
+            else
+            {
+                if (heap[rightChildIndex] < heap[parentIndex]) return;
+                largestIndex = rightChildIndex;
+            }
+
+            var tmp = heap[largestIndex];
+            heap[largestIndex] = heap[parentIndex];
+            heap[parentIndex] = tmp;
+            OrderFromFirst(largestIndex);
+        }
     }
 }
